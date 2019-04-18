@@ -1,5 +1,5 @@
 # treedom_video
-adds views to treedom video to plant trees
+adds views to treedom video to plant trees with putting the webpage on loop and waiting for 3 seconds
 
 ## requirements
 you need to install "pynput"
