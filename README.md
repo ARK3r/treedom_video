@@ -1,5 +1,5 @@
 # treedom_video
-Since the page says for every 1000 views they will plant a tree, this script will put the webpage on a pc on the loop to add one view every 10 seconds (ish), SO SOME TREES GET PLANTED.
+Since the page says for every 1000 views they will plant a tree, this script will put the webpage on the loop to add one view every 10 seconds (ish) to the video, SO SOME TREES GET PLANTED.
 
 ## requirements
 you need to install "pynput"
